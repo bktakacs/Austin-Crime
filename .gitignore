@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Date file
+data/Crime_Reports.csv
+
 # C extensions
 *.so
 
